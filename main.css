@@ -2208,7 +2208,7 @@ form input.margin-l, form textarea.margin-l {
   background-position: bottom center;
   -moz-background-size: 150%;
        background-size: 150%;
-  background-image: url("https://dummyimage.com/1920x280/1f1f1f/3b3b3b");
+  background-image: url("https://mixdesign.club/themeforest/ignite/img/backgrounds/1920x280-bg-menu.webp");
 }
 @media only screen and (min-width: 1200px) {
   .nav__background {
